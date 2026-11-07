@@ -1,0 +1,45 @@
+{
+  "gruende": [
+    { "value": "kapazitaet", "label": "Kapazitätsverlust", "beschreibung": "Wegfall von GKV-Plätzen." },
+    { "value": "umwidmung", "label": "Umwidmung", "beschreibung": "Verschiebung von Kapazitäten zu Privatpatient:innen/Selbstzahler." },
+    { "value": "schliessung", "label": "Praxisaufgabe / Schließung", "beschreibung": "Vollständige Schließung bzw. Aufgabe des Kassensitzes." },
+    { "value": "wartezeit", "label": "Wartezeitveränderung", "beschreibung": "Verlängerung der Wartezeit oder Wegfall von Akutsprechstunden." },
+    { "value": "budget", "label": "Budgetierungsfolge", "beschreibung": "Kapazitätsreduktion durch Budgetgrenzen." },
+    { "value": "honorar", "label": "Honorardeckelung", "beschreibung": "Wirtschaftlich bedingte Reduktion durch gedeckelte Honorare." },
+    { "value": "regress", "label": "Regressrisiko", "beschreibung": "Einschränkung der Tätigkeit aus Angst vor Regressen." },
+    { "value": "kv", "label": "KV-Vorgaben", "beschreibung": "Neue Regelungen der Kassenärztlichen Vereinigung reduzieren die Kapazität." },
+    { "value": "gba", "label": "G-BA-Folgen", "beschreibung": "Auswirkungen neuer Richtlinien des Gemeinsamen Bundesausschusses." },
+    { "value": "sonstige", "label": "Sonstiger Grund", "beschreibung": "Alle anderen Gründe (z. B. Reduktion von GKV-Plätzen aufgrund Verlagerung auf andere Erwerbsquellen wie Coaching o. Ä.)." }
+  ],
+  "praxisformen": [
+    { "value": "einzelpraxis", "label": "Einzelpraxis" },
+    { "value": "einzelpraxis-angestellte", "label": "Einzelpraxis mit Angestellten" },
+    { "value": "bag", "label": "Berufsausübungsgemeinschaft (BAG)" },
+    { "value": "mvz", "label": "MVZ" }
+  ],
+  "kassensitz": [
+    { "value": 0.25, "label": "Viertel Kassensitz" },
+    { "value": 0.5, "label": "Halber Kassensitz" },
+    { "value": 0.75, "label": "Dreiviertel Kassensitz" },
+    { "value": 1, "label": "Ganzer Kassensitz" }
+  ],
+  "betroffeneGruppen": [
+    { "value": "kinder-jugendliche", "label": "Kinder/Jugendliche", "beschreibung": "Patient:innen bis einschließlich 17 Jahre, einschließlich Kinder- und Jugendlichenpsychotherapie." },
+    { "value": "chronisch", "label": "Chronisch Kranke", "beschreibung": "Patient:innen mit langfristigen psychischen Erkrankungen und wiederkehrendem, dauerhaftem Behandlungsbedarf." },
+    { "value": "akut", "label": "Akutfälle", "beschreibung": "Patient:innen mit akutem, kurzfristigem Behandlungsbedarf, z. B. in Krisensituationen oder nach akuten Ereignissen." },
+    { "value": "erwachsene", "label": "Erwachsene allgemein", "beschreibung": "Erwachsene Patient:innen ohne besonderen Akut- oder Chronizitätsstatus." },
+    { "value": "gruppe-erwachsene", "label": "Gruppentherapie Erwachsene", "beschreibung": "Erwachsene Patient:innen, die von Veränderungen im Gruppentherapieangebot betroffen sind." },
+    { "value": "gruppe-kjp", "label": "Gruppentherapie KJP", "beschreibung": "Kinder und Jugendliche, die von Veränderungen im Gruppentherapieangebot betroffen sind." }
+  ],
+  "berufsstatus": [
+    "Psychologische/r Psychotherapeut:in",
+    "Ärztliche/r Psychotherapeut:in",
+    "Kinder- und Jugendlichenpsychotherapeut:in (KJP)"
+  ],
+  "bundeslaender": [
+    "Baden-Württemberg", "Bayern", "Berlin", "Brandenburg", "Bremen", "Hamburg", "Hessen",
+    "Mecklenburg-Vorpommern", "Niedersachsen", "Nordrhein-Westfalen", "Rheinland-Pfalz",
+    "Saarland", "Sachsen", "Sachsen-Anhalt", "Schleswig-Holstein", "Thüringen"
+  ],
+  "kvStatus": ["Vertragspsychotherapeut:in", "Angestellt", "Privat"]
+}

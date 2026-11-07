@@ -1,0 +1,127 @@
+/* Ansicht „Meldung abgeben": sechsstufiges Formular */
+.formular {
+  max-width: 660px;
+  padding: 28px;
+  background: var(--karte-flaeche);
+  border: 1px solid var(--karte-rahmen);
+  border-radius: var(--radius);
+}
+.formular-schritt { outline: none; }
+
+.schritte { display: flex; gap: 6px; margin-bottom: 26px; }
+.schritt-punkt { flex: 1; height: 4px; border-radius: 2px; background: var(--linie); }
+.schritt-punkt.erledigt { background: var(--text-leise); }
+.schritt-punkt.aktuell { background: var(--akzent); }
+
+.schritt-text { font-size: 14.5px; margin-bottom: 22px; }
+
+fieldset { border: none; }
+.feld { margin-bottom: 16px; min-width: 0; }
+.feld label, .feld legend { display: block; font-size: 14px; font-weight: 700; margin-bottom: 6px; }
+.label-zusatz { font-weight: 400; color: var(--text-leise); }
+
+.feld input:not([type='checkbox'], [type='radio']), .feld select, .feld textarea {
+  width: 100%;
+  padding: 10px 12px;
+  font-family: var(--font-text);
+  font-size: 15px;
+  color: var(--eingabe-text);
+  background: var(--eingabe-flaeche);
+  border: 1px solid var(--eingabe-rahmen);
+  border-radius: var(--radius);
+}
+.feld textarea { min-height: 76px; resize: vertical; }
+.feld input:focus, .feld select:focus, .feld textarea:focus { outline: 2px solid var(--akzent); outline-offset: 0; }
+.feld [aria-invalid='true'] { border-color: var(--negativ); }
+
+.feld-hinweis { font-size: 12.5px; color: var(--text-leise); margin-top: 4px; }
+.feld-hinweis-block { margin: -8px 0 16px; }
+.feld-fehler { font-size: 13px; font-weight: 700; color: var(--negativ); margin-top: 4px; }
+
+.feld-reihe { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; align-items: start; }
+.feld-reihe-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; align-items: start; }
+.feld-reihe-3 .feld { margin-bottom: 0; }
+.feld-reihe-3 .feld label { font-weight: 400; font-size: 13px; }
+
+.chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip, .feld .chip {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  margin: 0;
+  padding: 7px 12px;
+  font-size: 13.5px;
+  font-weight: 400;
+  background: var(--karte-flaeche);
+  border: 1px solid var(--linie);
+  border-radius: var(--radius);
+  cursor: pointer;
+}
+.chip:hover { border-color: var(--text-leise); }
+.chip:has(input:checked) { border-color: var(--auswahl-flaeche); background: var(--auswahl-flaeche); color: var(--auswahl-text); }
+.chip-unten { align-self: end; margin-bottom: 16px; }
+
+.zeilen { display: flex; flex-direction: column; gap: 8px; }
+.zeile, .feld .zeile {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  margin: 0;
+  padding: 11px 13px;
+  font-weight: 400;
+  border: 1px solid var(--linie);
+  border-radius: var(--radius);
+  cursor: pointer;
+}
+.zeile:hover { border-color: var(--text-leise); }
+.zeile:has(input:checked) { border-color: var(--auswahl-flaeche); background: var(--auswahl-flaeche); color: var(--auswahl-text); }
+.zeile input { margin-top: 4px; flex-shrink: 0; accent-color: var(--pink-950); }
+.chip input { accent-color: var(--pink-950); }
+.zeile-titel { display: block; font-size: 14px; font-weight: 700; }
+.zeile-text { display: block; font-size: 13px; color: var(--text-leise); line-height: 1.4; }
+.zeile:has(input:checked) .zeile-text { color: var(--auswahl-text); }
+
+.abschnitt { font-size: 15px; font-weight: 700; color: var(--untertitel); margin: 20px 0 8px; }
+
+.pruef-zeile { display: flex; align-items: center; gap: 12px; padding: 14px 0; border-top: 1px solid var(--linie); }
+.pruef-zeile:first-child { border-top: none; }
+.pruef-symbol {
+  width: 28px;
+  height: 28px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  font-family: var(--font-daten);
+  font-size: 13px;
+  font-weight: 700;
+}
+.pruef-symbol.wartend { background: var(--linie); color: var(--text); }
+.pruef-symbol.pruefung { background: var(--data-amber); color: var(--taupe-900); }
+.pruef-symbol.fertig { background: var(--auswahl-flaeche); color: var(--auswahl-text); }
+.pruef-text b { display: block; font-size: 14.5px; }
+.pruef-text span { font-size: 13px; color: var(--text-leise); }
+
+.erfolg { text-align: center; padding: 20px 0; }
+.erfolg p { max-width: 420px; margin: 10px auto 0; font-size: 14.5px; }
+.erfolg-symbol {
+  width: 54px;
+  height: 54px;
+  margin: 0 auto 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: var(--auswahl-flaeche);
+  color: var(--auswahl-text);
+  font-size: 26px;
+}
+
+.formular-aktionen { display: flex; justify-content: space-between; margin-top: 24px; }
+
+@media (max-width: 640px) {
+  .formular { padding: 18px; }
+  .feld-reihe, .feld-reihe-3 { grid-template-columns: 1fr; }
+  .feld-reihe-3 .feld { margin-bottom: 4px; }
+}

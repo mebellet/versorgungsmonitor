@@ -1,0 +1,3210 @@
+[
+ {
+  "id": "07131",
+  "name": "Ahrweiler",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Rheinland-Pfalz",
+  "label": "Ahrweiler"
+ },
+ {
+  "id": "09771",
+  "name": "Aichach-Friedberg",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Aichach-Friedberg"
+ },
+ {
+  "id": "08425",
+  "name": "Alb-Donau-Kreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Baden-Württemberg",
+  "label": "Alb-Donau-Kreis"
+ },
+ {
+  "id": "16077",
+  "name": "Altenburger Land",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Thüringen",
+  "label": "Altenburger Land"
+ },
+ {
+  "id": "07132",
+  "name": "Altenkirchen (Westerwald)",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Rheinland-Pfalz",
+  "label": "Altenkirchen (Westerwald)"
+ },
+ {
+  "id": "15081",
+  "name": "Altmarkkreis Salzwedel",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Sachsen-Anhalt",
+  "label": "Altmarkkreis Salzwedel"
+ },
+ {
+  "id": "09171",
+  "name": "Altötting",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Altötting"
+ },
+ {
+  "id": "07331",
+  "name": "Alzey-Worms",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Rheinland-Pfalz",
+  "label": "Alzey-Worms"
+ },
+ {
+  "id": "09361",
+  "name": "Amberg",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Bayern",
+  "label": "Amberg"
+ },
+ {
+  "id": "09371",
+  "name": "Amberg-Sulzbach",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Amberg-Sulzbach"
+ },
+ {
+  "id": "03451",
+  "name": "Ammerland",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Ammerland"
+ },
+ {
+  "id": "15082",
+  "name": "Anhalt-Bitterfeld",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Sachsen-Anhalt",
+  "label": "Anhalt-Bitterfeld"
+ },
+ {
+  "id": "09571",
+  "name": "Ansbach",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Ansbach (Landkreis)"
+ },
+ {
+  "id": "09561",
+  "name": "Ansbach",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Bayern",
+  "label": "Ansbach (Stadt)"
+ },
+ {
+  "id": "09671",
+  "name": "Aschaffenburg",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Aschaffenburg (Landkreis)"
+ },
+ {
+  "id": "09661",
+  "name": "Aschaffenburg",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Bayern",
+  "label": "Aschaffenburg (Stadt)"
+ },
+ {
+  "id": "09772",
+  "name": "Augsburg",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Augsburg (Landkreis)"
+ },
+ {
+  "id": "09761",
+  "name": "Augsburg",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Bayern",
+  "label": "Augsburg (Stadt)"
+ },
+ {
+  "id": "03452",
+  "name": "Aurich",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Aurich"
+ },
+ {
+  "id": "07332",
+  "name": "Bad Dürkheim",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Rheinland-Pfalz",
+  "label": "Bad Dürkheim"
+ },
+ {
+  "id": "09672",
+  "name": "Bad Kissingen",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Bad Kissingen"
+ },
+ {
+  "id": "07133",
+  "name": "Bad Kreuznach",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Rheinland-Pfalz",
+  "label": "Bad Kreuznach"
+ },
+ {
+  "id": "09173",
+  "name": "Bad Tölz-Wolfratshausen",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Bad Tölz-Wolfratshausen"
+ },
+ {
+  "id": "08211",
+  "name": "Baden-Baden",
+  "bez": "Stadtkreis",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Baden-Württemberg",
+  "label": "Baden-Baden"
+ },
+ {
+  "id": "09471",
+  "name": "Bamberg",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Bamberg (Landkreis)"
+ },
+ {
+  "id": "09461",
+  "name": "Bamberg",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Bayern",
+  "label": "Bamberg (Stadt)"
+ },
+ {
+  "id": "12060",
+  "name": "Barnim",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Brandenburg",
+  "label": "Barnim"
+ },
+ {
+  "id": "14625",
+  "name": "Bautzen",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Sachsen",
+  "label": "Bautzen"
+ },
+ {
+  "id": "09472",
+  "name": "Bayreuth",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Bayreuth (Landkreis)"
+ },
+ {
+  "id": "09462",
+  "name": "Bayreuth",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Bayern",
+  "label": "Bayreuth (Stadt)"
+ },
+ {
+  "id": "09172",
+  "name": "Berchtesgadener Land",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Berchtesgadener Land"
+ },
+ {
+  "id": "06431",
+  "name": "Bergstraße",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Hessen",
+  "label": "Bergstraße"
+ },
+ {
+  "id": "11000",
+  "name": "Berlin",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Berlin",
+  "label": "Berlin"
+ },
+ {
+  "id": "07231",
+  "name": "Bernkastel-Wittlich",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Rheinland-Pfalz",
+  "label": "Bernkastel-Wittlich"
+ },
+ {
+  "id": "08426",
+  "name": "Biberach",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Baden-Württemberg",
+  "label": "Biberach"
+ },
+ {
+  "id": "05711",
+  "name": "Bielefeld",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Bielefeld"
+ },
+ {
+  "id": "07134",
+  "name": "Birkenfeld",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Rheinland-Pfalz",
+  "label": "Birkenfeld"
+ },
+ {
+  "id": "08115",
+  "name": "Böblingen",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Baden-Württemberg",
+  "label": "Böblingen"
+ },
+ {
+  "id": "05911",
+  "name": "Bochum",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Bochum"
+ },
+ {
+  "id": "08435",
+  "name": "Bodenseekreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Baden-Württemberg",
+  "label": "Bodenseekreis"
+ },
+ {
+  "id": "05314",
+  "name": "Bonn",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Bonn"
+ },
+ {
+  "id": "15083",
+  "name": "Börde",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Sachsen-Anhalt",
+  "label": "Börde"
+ },
+ {
+  "id": "05554",
+  "name": "Borken",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Borken"
+ },
+ {
+  "id": "05512",
+  "name": "Bottrop",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Bottrop"
+ },
+ {
+  "id": "12051",
+  "name": "Brandenburg an der Havel",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Brandenburg",
+  "label": "Brandenburg an der Havel"
+ },
+ {
+  "id": "03101",
+  "name": "Braunschweig",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Niedersachsen",
+  "label": "Braunschweig"
+ },
+ {
+  "id": "08315",
+  "name": "Breisgau-Hochschwarzwald",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Baden-Württemberg",
+  "label": "Breisgau-Hochschwarzwald"
+ },
+ {
+  "id": "04011",
+  "name": "Bremen",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Bremen",
+  "label": "Bremen"
+ },
+ {
+  "id": "04012",
+  "name": "Bremerhaven",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Bremen",
+  "label": "Bremerhaven"
+ },
+ {
+  "id": "15084",
+  "name": "Burgenlandkreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Sachsen-Anhalt",
+  "label": "Burgenlandkreis"
+ },
+ {
+  "id": "08235",
+  "name": "Calw",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Baden-Württemberg",
+  "label": "Calw"
+ },
+ {
+  "id": "03351",
+  "name": "Celle",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Celle"
+ },
+ {
+  "id": "09372",
+  "name": "Cham",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Cham"
+ },
+ {
+  "id": "14511",
+  "name": "Chemnitz",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Sachsen",
+  "label": "Chemnitz"
+ },
+ {
+  "id": "03453",
+  "name": "Cloppenburg",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Cloppenburg"
+ },
+ {
+  "id": "09473",
+  "name": "Coburg",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Coburg (Landkreis)"
+ },
+ {
+  "id": "09463",
+  "name": "Coburg",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Bayern",
+  "label": "Coburg (Stadt)"
+ },
+ {
+  "id": "07135",
+  "name": "Cochem-Zell",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Rheinland-Pfalz",
+  "label": "Cochem-Zell"
+ },
+ {
+  "id": "05558",
+  "name": "Coesfeld",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Coesfeld"
+ },
+ {
+  "id": "12052",
+  "name": "Cottbus",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Brandenburg",
+  "label": "Cottbus"
+ },
+ {
+  "id": "03352",
+  "name": "Cuxhaven",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Cuxhaven"
+ },
+ {
+  "id": "09174",
+  "name": "Dachau",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Dachau"
+ },
+ {
+  "id": "12061",
+  "name": "Dahme-Spreewald",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Brandenburg",
+  "label": "Dahme-Spreewald"
+ },
+ {
+  "id": "06411",
+  "name": "Darmstadt",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Hessen",
+  "label": "Darmstadt"
+ },
+ {
+  "id": "06432",
+  "name": "Darmstadt-Dieburg",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Hessen",
+  "label": "Darmstadt-Dieburg"
+ },
+ {
+  "id": "09271",
+  "name": "Deggendorf",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Deggendorf"
+ },
+ {
+  "id": "03401",
+  "name": "Delmenhorst",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Niedersachsen",
+  "label": "Delmenhorst"
+ },
+ {
+  "id": "15001",
+  "name": "Dessau-Roßlau",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Sachsen-Anhalt",
+  "label": "Dessau-Roßlau"
+ },
+ {
+  "id": "03251",
+  "name": "Diepholz",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Diepholz"
+ },
+ {
+  "id": "09773",
+  "name": "Dillingen a.d.Donau",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Dillingen a.d.Donau"
+ },
+ {
+  "id": "09279",
+  "name": "Dingolfing-Landau",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Dingolfing-Landau"
+ },
+ {
+  "id": "01051",
+  "name": "Dithmarschen",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Schleswig-Holstein",
+  "label": "Dithmarschen"
+ },
+ {
+  "id": "09779",
+  "name": "Donau-Ries",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Donau-Ries"
+ },
+ {
+  "id": "07333",
+  "name": "Donnersbergkreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Rheinland-Pfalz",
+  "label": "Donnersbergkreis"
+ },
+ {
+  "id": "05913",
+  "name": "Dortmund",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Dortmund"
+ },
+ {
+  "id": "14612",
+  "name": "Dresden",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Sachsen",
+  "label": "Dresden"
+ },
+ {
+  "id": "05112",
+  "name": "Duisburg",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Duisburg"
+ },
+ {
+  "id": "05358",
+  "name": "Düren",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Düren"
+ },
+ {
+  "id": "05111",
+  "name": "Düsseldorf",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Düsseldorf"
+ },
+ {
+  "id": "09175",
+  "name": "Ebersberg",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Ebersberg"
+ },
+ {
+  "id": "16061",
+  "name": "Eichsfeld",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Thüringen",
+  "label": "Eichsfeld"
+ },
+ {
+  "id": "09176",
+  "name": "Eichstätt",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Eichstätt"
+ },
+ {
+  "id": "07232",
+  "name": "Eifelkreis Bitburg-Prüm",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Rheinland-Pfalz",
+  "label": "Eifelkreis Bitburg-Prüm"
+ },
+ {
+  "id": "12062",
+  "name": "Elbe-Elster",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Brandenburg",
+  "label": "Elbe-Elster"
+ },
+ {
+  "id": "03402",
+  "name": "Emden",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Niedersachsen",
+  "label": "Emden"
+ },
+ {
+  "id": "08316",
+  "name": "Emmendingen",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Baden-Württemberg",
+  "label": "Emmendingen"
+ },
+ {
+  "id": "03454",
+  "name": "Emsland",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Emsland"
+ },
+ {
+  "id": "05954",
+  "name": "Ennepe-Ruhr-Kreis",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Ennepe-Ruhr-Kreis"
+ },
+ {
+  "id": "08236",
+  "name": "Enzkreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Baden-Württemberg",
+  "label": "Enzkreis"
+ },
+ {
+  "id": "09177",
+  "name": "Erding",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Erding"
+ },
+ {
+  "id": "16051",
+  "name": "Erfurt",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Thüringen",
+  "label": "Erfurt"
+ },
+ {
+  "id": "09562",
+  "name": "Erlangen",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Bayern",
+  "label": "Erlangen"
+ },
+ {
+  "id": "09572",
+  "name": "Erlangen-Höchstadt",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Erlangen-Höchstadt"
+ },
+ {
+  "id": "14521",
+  "name": "Erzgebirgskreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Sachsen",
+  "label": "Erzgebirgskreis"
+ },
+ {
+  "id": "05113",
+  "name": "Essen",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Essen"
+ },
+ {
+  "id": "08116",
+  "name": "Esslingen",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Baden-Württemberg",
+  "label": "Esslingen"
+ },
+ {
+  "id": "05366",
+  "name": "Euskirchen",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Euskirchen"
+ },
+ {
+  "id": "01001",
+  "name": "Flensburg",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Schleswig-Holstein",
+  "label": "Flensburg"
+ },
+ {
+  "id": "09474",
+  "name": "Forchheim",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Forchheim"
+ },
+ {
+  "id": "07311",
+  "name": "Frankenthal (Pfalz)",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Rheinland-Pfalz",
+  "label": "Frankenthal (Pfalz)"
+ },
+ {
+  "id": "12053",
+  "name": "Frankfurt (Oder)",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Brandenburg",
+  "label": "Frankfurt (Oder)"
+ },
+ {
+  "id": "06412",
+  "name": "Frankfurt am Main",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Hessen",
+  "label": "Frankfurt am Main"
+ },
+ {
+  "id": "08311",
+  "name": "Freiburg im Breisgau",
+  "bez": "Stadtkreis",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Baden-Württemberg",
+  "label": "Freiburg im Breisgau"
+ },
+ {
+  "id": "09178",
+  "name": "Freising",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Freising"
+ },
+ {
+  "id": "08237",
+  "name": "Freudenstadt",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Baden-Württemberg",
+  "label": "Freudenstadt"
+ },
+ {
+  "id": "09272",
+  "name": "Freyung-Grafenau",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Freyung-Grafenau"
+ },
+ {
+  "id": "03455",
+  "name": "Friesland",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Friesland"
+ },
+ {
+  "id": "06631",
+  "name": "Fulda",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Hessen",
+  "label": "Fulda"
+ },
+ {
+  "id": "09179",
+  "name": "Fürstenfeldbruck",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Fürstenfeldbruck"
+ },
+ {
+  "id": "09573",
+  "name": "Fürth",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Fürth (Landkreis)"
+ },
+ {
+  "id": "09563",
+  "name": "Fürth",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Bayern",
+  "label": "Fürth (Stadt)"
+ },
+ {
+  "id": "09180",
+  "name": "Garmisch-Partenkirchen",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Garmisch-Partenkirchen"
+ },
+ {
+  "id": "05513",
+  "name": "Gelsenkirchen",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Gelsenkirchen"
+ },
+ {
+  "id": "16052",
+  "name": "Gera",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Thüringen",
+  "label": "Gera"
+ },
+ {
+  "id": "07334",
+  "name": "Germersheim",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Rheinland-Pfalz",
+  "label": "Germersheim"
+ },
+ {
+  "id": "06531",
+  "name": "Gießen",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Hessen",
+  "label": "Gießen"
+ },
+ {
+  "id": "03151",
+  "name": "Gifhorn",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Gifhorn"
+ },
+ {
+  "id": "08117",
+  "name": "Göppingen",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Baden-Württemberg",
+  "label": "Göppingen"
+ },
+ {
+  "id": "14626",
+  "name": "Görlitz",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Sachsen",
+  "label": "Görlitz"
+ },
+ {
+  "id": "03153",
+  "name": "Goslar",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Goslar"
+ },
+ {
+  "id": "16067",
+  "name": "Gotha",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Thüringen",
+  "label": "Gotha"
+ },
+ {
+  "id": "03159",
+  "name": "Göttingen",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Göttingen"
+ },
+ {
+  "id": "03456",
+  "name": "Grafschaft Bentheim",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Grafschaft Bentheim"
+ },
+ {
+  "id": "16076",
+  "name": "Greiz",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Thüringen",
+  "label": "Greiz"
+ },
+ {
+  "id": "06433",
+  "name": "Groß-Gerau",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Hessen",
+  "label": "Groß-Gerau"
+ },
+ {
+  "id": "09774",
+  "name": "Günzburg",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Günzburg"
+ },
+ {
+  "id": "05754",
+  "name": "Gütersloh",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Gütersloh"
+ },
+ {
+  "id": "05914",
+  "name": "Hagen",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Hagen"
+ },
+ {
+  "id": "15002",
+  "name": "Halle (Saale)",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Sachsen-Anhalt",
+  "label": "Halle (Saale)"
+ },
+ {
+  "id": "02000",
+  "name": "Hamburg",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Hamburg",
+  "label": "Hamburg"
+ },
+ {
+  "id": "03252",
+  "name": "Hameln-Pyrmont",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Hameln-Pyrmont"
+ },
+ {
+  "id": "05915",
+  "name": "Hamm",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Hamm"
+ },
+ {
+  "id": "06415",
+  "name": "Hanau",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Hessen",
+  "label": "Hanau"
+ },
+ {
+  "id": "03353",
+  "name": "Harburg",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Harburg"
+ },
+ {
+  "id": "15085",
+  "name": "Harz",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Sachsen-Anhalt",
+  "label": "Harz"
+ },
+ {
+  "id": "09674",
+  "name": "Haßberge",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Haßberge"
+ },
+ {
+  "id": "12063",
+  "name": "Havelland",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Brandenburg",
+  "label": "Havelland"
+ },
+ {
+  "id": "03358",
+  "name": "Heidekreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Heidekreis"
+ },
+ {
+  "id": "08221",
+  "name": "Heidelberg",
+  "bez": "Stadtkreis",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Baden-Württemberg",
+  "label": "Heidelberg"
+ },
+ {
+  "id": "08135",
+  "name": "Heidenheim",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Baden-Württemberg",
+  "label": "Heidenheim"
+ },
+ {
+  "id": "08125",
+  "name": "Heilbronn",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Baden-Württemberg",
+  "label": "Heilbronn (Landkreis)"
+ },
+ {
+  "id": "08121",
+  "name": "Heilbronn",
+  "bez": "Stadtkreis",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Baden-Württemberg",
+  "label": "Heilbronn (Stadt)"
+ },
+ {
+  "id": "05370",
+  "name": "Heinsberg",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Heinsberg"
+ },
+ {
+  "id": "03154",
+  "name": "Helmstedt",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Helmstedt"
+ },
+ {
+  "id": "05758",
+  "name": "Herford",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Herford"
+ },
+ {
+  "id": "05916",
+  "name": "Herne",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Herne"
+ },
+ {
+  "id": "06632",
+  "name": "Hersfeld-Rotenburg",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Hessen",
+  "label": "Hersfeld-Rotenburg"
+ },
+ {
+  "id": "01053",
+  "name": "Herzogtum Lauenburg",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Schleswig-Holstein",
+  "label": "Herzogtum Lauenburg"
+ },
+ {
+  "id": "16069",
+  "name": "Hildburghausen",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Thüringen",
+  "label": "Hildburghausen"
+ },
+ {
+  "id": "03254",
+  "name": "Hildesheim",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Hildesheim"
+ },
+ {
+  "id": "05958",
+  "name": "Hochsauerlandkreis",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Hochsauerlandkreis"
+ },
+ {
+  "id": "06434",
+  "name": "Hochtaunuskreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Hessen",
+  "label": "Hochtaunuskreis"
+ },
+ {
+  "id": "09475",
+  "name": "Hof",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Hof (Landkreis)"
+ },
+ {
+  "id": "09464",
+  "name": "Hof",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Bayern",
+  "label": "Hof (Stadt)"
+ },
+ {
+  "id": "08126",
+  "name": "Hohenlohekreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Baden-Württemberg",
+  "label": "Hohenlohekreis"
+ },
+ {
+  "id": "03255",
+  "name": "Holzminden",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Holzminden"
+ },
+ {
+  "id": "05762",
+  "name": "Höxter",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Höxter"
+ },
+ {
+  "id": "16070",
+  "name": "Ilm-Kreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Thüringen",
+  "label": "Ilm-Kreis"
+ },
+ {
+  "id": "09161",
+  "name": "Ingolstadt",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Bayern",
+  "label": "Ingolstadt"
+ },
+ {
+  "id": "16053",
+  "name": "Jena",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Thüringen",
+  "label": "Jena"
+ },
+ {
+  "id": "15086",
+  "name": "Jerichower Land",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Sachsen-Anhalt",
+  "label": "Jerichower Land"
+ },
+ {
+  "id": "07335",
+  "name": "Kaiserslautern",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Rheinland-Pfalz",
+  "label": "Kaiserslautern (Landkreis)"
+ },
+ {
+  "id": "07312",
+  "name": "Kaiserslautern",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Rheinland-Pfalz",
+  "label": "Kaiserslautern (Stadt)"
+ },
+ {
+  "id": "08215",
+  "name": "Karlsruhe",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Baden-Württemberg",
+  "label": "Karlsruhe (Landkreis)"
+ },
+ {
+  "id": "08212",
+  "name": "Karlsruhe",
+  "bez": "Stadtkreis",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Baden-Württemberg",
+  "label": "Karlsruhe (Stadt)"
+ },
+ {
+  "id": "06633",
+  "name": "Kassel",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Hessen",
+  "label": "Kassel (Landkreis)"
+ },
+ {
+  "id": "06611",
+  "name": "Kassel",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Hessen",
+  "label": "Kassel (Stadt)"
+ },
+ {
+  "id": "09762",
+  "name": "Kaufbeuren",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Bayern",
+  "label": "Kaufbeuren"
+ },
+ {
+  "id": "09273",
+  "name": "Kelheim",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Kelheim"
+ },
+ {
+  "id": "09763",
+  "name": "Kempten (Allgäu)",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Bayern",
+  "label": "Kempten (Allgäu)"
+ },
+ {
+  "id": "01002",
+  "name": "Kiel",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Schleswig-Holstein",
+  "label": "Kiel"
+ },
+ {
+  "id": "09675",
+  "name": "Kitzingen",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Kitzingen"
+ },
+ {
+  "id": "05154",
+  "name": "Kleve",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Kleve"
+ },
+ {
+  "id": "07111",
+  "name": "Koblenz",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Rheinland-Pfalz",
+  "label": "Koblenz"
+ },
+ {
+  "id": "05315",
+  "name": "Köln",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Köln"
+ },
+ {
+  "id": "08335",
+  "name": "Konstanz",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Baden-Württemberg",
+  "label": "Konstanz"
+ },
+ {
+  "id": "05114",
+  "name": "Krefeld",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Krefeld"
+ },
+ {
+  "id": "09476",
+  "name": "Kronach",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Kronach"
+ },
+ {
+  "id": "09477",
+  "name": "Kulmbach",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Kulmbach"
+ },
+ {
+  "id": "07336",
+  "name": "Kusel",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Rheinland-Pfalz",
+  "label": "Kusel"
+ },
+ {
+  "id": "16065",
+  "name": "Kyffhäuserkreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Thüringen",
+  "label": "Kyffhäuserkreis"
+ },
+ {
+  "id": "06532",
+  "name": "Lahn-Dill-Kreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Hessen",
+  "label": "Lahn-Dill-Kreis"
+ },
+ {
+  "id": "07313",
+  "name": "Landau in der Pfalz",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Rheinland-Pfalz",
+  "label": "Landau in der Pfalz"
+ },
+ {
+  "id": "09181",
+  "name": "Landsberg am Lech",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Landsberg am Lech"
+ },
+ {
+  "id": "09274",
+  "name": "Landshut",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Landshut (Landkreis)"
+ },
+ {
+  "id": "09261",
+  "name": "Landshut",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Bayern",
+  "label": "Landshut (Stadt)"
+ },
+ {
+  "id": "03457",
+  "name": "Leer",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Leer"
+ },
+ {
+  "id": "14729",
+  "name": "Leipzig",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Sachsen",
+  "label": "Leipzig (Landkreis)"
+ },
+ {
+  "id": "14713",
+  "name": "Leipzig",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Sachsen",
+  "label": "Leipzig (Stadt)"
+ },
+ {
+  "id": "05316",
+  "name": "Leverkusen",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Leverkusen"
+ },
+ {
+  "id": "09478",
+  "name": "Lichtenfels",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Lichtenfels"
+ },
+ {
+  "id": "06533",
+  "name": "Limburg-Weilburg",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Hessen",
+  "label": "Limburg-Weilburg"
+ },
+ {
+  "id": "09776",
+  "name": "Lindau (Bodensee)",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Lindau (Bodensee)"
+ },
+ {
+  "id": "05766",
+  "name": "Lippe",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Lippe"
+ },
+ {
+  "id": "08336",
+  "name": "Lörrach",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Baden-Württemberg",
+  "label": "Lörrach"
+ },
+ {
+  "id": "01003",
+  "name": "Lübeck",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Schleswig-Holstein",
+  "label": "Lübeck"
+ },
+ {
+  "id": "03354",
+  "name": "Lüchow-Dannenberg",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Lüchow-Dannenberg"
+ },
+ {
+  "id": "08118",
+  "name": "Ludwigsburg",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Baden-Württemberg",
+  "label": "Ludwigsburg"
+ },
+ {
+  "id": "07314",
+  "name": "Ludwigshafen am Rhein",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Rheinland-Pfalz",
+  "label": "Ludwigshafen am Rhein"
+ },
+ {
+  "id": "13076",
+  "name": "Ludwigslust-Parchim",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Mecklenburg-Vorpommern",
+  "label": "Ludwigslust-Parchim"
+ },
+ {
+  "id": "03355",
+  "name": "Lüneburg",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Lüneburg"
+ },
+ {
+  "id": "15003",
+  "name": "Magdeburg",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Sachsen-Anhalt",
+  "label": "Magdeburg"
+ },
+ {
+  "id": "06435",
+  "name": "Main-Kinzig-Kreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Hessen",
+  "label": "Main-Kinzig-Kreis"
+ },
+ {
+  "id": "09677",
+  "name": "Main-Spessart",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Main-Spessart"
+ },
+ {
+  "id": "08128",
+  "name": "Main-Tauber-Kreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Baden-Württemberg",
+  "label": "Main-Tauber-Kreis"
+ },
+ {
+  "id": "06436",
+  "name": "Main-Taunus-Kreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Hessen",
+  "label": "Main-Taunus-Kreis"
+ },
+ {
+  "id": "07315",
+  "name": "Mainz",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Rheinland-Pfalz",
+  "label": "Mainz"
+ },
+ {
+  "id": "07339",
+  "name": "Mainz-Bingen",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Rheinland-Pfalz",
+  "label": "Mainz-Bingen"
+ },
+ {
+  "id": "08222",
+  "name": "Mannheim",
+  "bez": "Stadtkreis",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Baden-Württemberg",
+  "label": "Mannheim"
+ },
+ {
+  "id": "15087",
+  "name": "Mansfeld-Südharz",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Sachsen-Anhalt",
+  "label": "Mansfeld-Südharz"
+ },
+ {
+  "id": "06534",
+  "name": "Marburg-Biedenkopf",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Hessen",
+  "label": "Marburg-Biedenkopf"
+ },
+ {
+  "id": "12064",
+  "name": "Märkisch-Oderland",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Brandenburg",
+  "label": "Märkisch-Oderland"
+ },
+ {
+  "id": "05962",
+  "name": "Märkischer Kreis",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Märkischer Kreis"
+ },
+ {
+  "id": "07137",
+  "name": "Mayen-Koblenz",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Rheinland-Pfalz",
+  "label": "Mayen-Koblenz"
+ },
+ {
+  "id": "13071",
+  "name": "Mecklenburgische Seenplatte",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Mecklenburg-Vorpommern",
+  "label": "Mecklenburgische Seenplatte"
+ },
+ {
+  "id": "14627",
+  "name": "Meißen",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Sachsen",
+  "label": "Meißen"
+ },
+ {
+  "id": "09764",
+  "name": "Memmingen",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Bayern",
+  "label": "Memmingen"
+ },
+ {
+  "id": "10042",
+  "name": "Merzig-Wadern",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Saarland",
+  "label": "Merzig-Wadern"
+ },
+ {
+  "id": "05158",
+  "name": "Mettmann",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Mettmann"
+ },
+ {
+  "id": "09182",
+  "name": "Miesbach",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Miesbach"
+ },
+ {
+  "id": "09676",
+  "name": "Miltenberg",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Miltenberg"
+ },
+ {
+  "id": "05770",
+  "name": "Minden-Lübbecke",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Minden-Lübbecke"
+ },
+ {
+  "id": "14522",
+  "name": "Mittelsachsen",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Sachsen",
+  "label": "Mittelsachsen"
+ },
+ {
+  "id": "05116",
+  "name": "Mönchengladbach",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Mönchengladbach"
+ },
+ {
+  "id": "09183",
+  "name": "Mühldorf a.Inn",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Mühldorf a.Inn"
+ },
+ {
+  "id": "05117",
+  "name": "Mülheim an der Ruhr",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Mülheim an der Ruhr"
+ },
+ {
+  "id": "09184",
+  "name": "München",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "München (Landkreis)"
+ },
+ {
+  "id": "09162",
+  "name": "München",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Bayern",
+  "label": "München (Stadt)"
+ },
+ {
+  "id": "05515",
+  "name": "Münster",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Münster"
+ },
+ {
+  "id": "08225",
+  "name": "Neckar-Odenwald-Kreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Baden-Württemberg",
+  "label": "Neckar-Odenwald-Kreis"
+ },
+ {
+  "id": "09775",
+  "name": "Neu-Ulm",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Neu-Ulm"
+ },
+ {
+  "id": "09185",
+  "name": "Neuburg-Schrobenhausen",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Neuburg-Schrobenhausen"
+ },
+ {
+  "id": "09373",
+  "name": "Neumarkt i.d.OPf.",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Neumarkt i.d.OPf."
+ },
+ {
+  "id": "01004",
+  "name": "Neumünster",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Schleswig-Holstein",
+  "label": "Neumünster"
+ },
+ {
+  "id": "10043",
+  "name": "Neunkirchen",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Saarland",
+  "label": "Neunkirchen"
+ },
+ {
+  "id": "09575",
+  "name": "Neustadt a.d.Aisch-Bad Windsheim",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Neustadt a.d.Aisch-Bad Windsheim"
+ },
+ {
+  "id": "09374",
+  "name": "Neustadt a.d.Waldnaab",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Neustadt a.d.Waldnaab"
+ },
+ {
+  "id": "07316",
+  "name": "Neustadt an der Weinstraße",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Rheinland-Pfalz",
+  "label": "Neustadt an der Weinstraße"
+ },
+ {
+  "id": "07138",
+  "name": "Neuwied",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Rheinland-Pfalz",
+  "label": "Neuwied"
+ },
+ {
+  "id": "03256",
+  "name": "Nienburg (Weser)",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Nienburg (Weser)"
+ },
+ {
+  "id": "01054",
+  "name": "Nordfriesland",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Schleswig-Holstein",
+  "label": "Nordfriesland"
+ },
+ {
+  "id": "16062",
+  "name": "Nordhausen",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Thüringen",
+  "label": "Nordhausen"
+ },
+ {
+  "id": "14730",
+  "name": "Nordsachsen",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Sachsen",
+  "label": "Nordsachsen"
+ },
+ {
+  "id": "13074",
+  "name": "Nordwestmecklenburg",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Mecklenburg-Vorpommern",
+  "label": "Nordwestmecklenburg"
+ },
+ {
+  "id": "03155",
+  "name": "Northeim",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Northeim"
+ },
+ {
+  "id": "09564",
+  "name": "Nürnberg",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Bayern",
+  "label": "Nürnberg"
+ },
+ {
+  "id": "09574",
+  "name": "Nürnberger Land",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Nürnberger Land"
+ },
+ {
+  "id": "09780",
+  "name": "Oberallgäu",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Oberallgäu"
+ },
+ {
+  "id": "05374",
+  "name": "Oberbergischer Kreis",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Oberbergischer Kreis"
+ },
+ {
+  "id": "05119",
+  "name": "Oberhausen",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Oberhausen"
+ },
+ {
+  "id": "12065",
+  "name": "Oberhavel",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Brandenburg",
+  "label": "Oberhavel"
+ },
+ {
+  "id": "12066",
+  "name": "Oberspreewald-Lausitz",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Brandenburg",
+  "label": "Oberspreewald-Lausitz"
+ },
+ {
+  "id": "06437",
+  "name": "Odenwaldkreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Hessen",
+  "label": "Odenwaldkreis"
+ },
+ {
+  "id": "12067",
+  "name": "Oder-Spree",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Brandenburg",
+  "label": "Oder-Spree"
+ },
+ {
+  "id": "06438",
+  "name": "Offenbach",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Hessen",
+  "label": "Offenbach"
+ },
+ {
+  "id": "06413",
+  "name": "Offenbach am Main",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Hessen",
+  "label": "Offenbach am Main"
+ },
+ {
+  "id": "03458",
+  "name": "Oldenburg",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Oldenburg"
+ },
+ {
+  "id": "03403",
+  "name": "Oldenburg (Oldb)",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Niedersachsen",
+  "label": "Oldenburg (Oldb)"
+ },
+ {
+  "id": "05966",
+  "name": "Olpe",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Olpe"
+ },
+ {
+  "id": "08317",
+  "name": "Ortenaukreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Baden-Württemberg",
+  "label": "Ortenaukreis"
+ },
+ {
+  "id": "03459",
+  "name": "Osnabrück",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Osnabrück (Landkreis)"
+ },
+ {
+  "id": "03404",
+  "name": "Osnabrück",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Niedersachsen",
+  "label": "Osnabrück (Stadt)"
+ },
+ {
+  "id": "08136",
+  "name": "Ostalbkreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Baden-Württemberg",
+  "label": "Ostalbkreis"
+ },
+ {
+  "id": "09777",
+  "name": "Ostallgäu",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Ostallgäu"
+ },
+ {
+  "id": "03356",
+  "name": "Osterholz",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Osterholz"
+ },
+ {
+  "id": "01055",
+  "name": "Ostholstein",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Schleswig-Holstein",
+  "label": "Ostholstein"
+ },
+ {
+  "id": "12068",
+  "name": "Ostprignitz-Ruppin",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Brandenburg",
+  "label": "Ostprignitz-Ruppin"
+ },
+ {
+  "id": "05774",
+  "name": "Paderborn",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Paderborn"
+ },
+ {
+  "id": "09275",
+  "name": "Passau",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Passau (Landkreis)"
+ },
+ {
+  "id": "09262",
+  "name": "Passau",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Bayern",
+  "label": "Passau (Stadt)"
+ },
+ {
+  "id": "03157",
+  "name": "Peine",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Peine"
+ },
+ {
+  "id": "09186",
+  "name": "Pfaffenhofen a.d.Ilm",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Pfaffenhofen a.d.Ilm"
+ },
+ {
+  "id": "08231",
+  "name": "Pforzheim",
+  "bez": "Stadtkreis",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Baden-Württemberg",
+  "label": "Pforzheim"
+ },
+ {
+  "id": "01056",
+  "name": "Pinneberg",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Schleswig-Holstein",
+  "label": "Pinneberg"
+ },
+ {
+  "id": "07317",
+  "name": "Pirmasens",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Rheinland-Pfalz",
+  "label": "Pirmasens"
+ },
+ {
+  "id": "01057",
+  "name": "Plön",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Schleswig-Holstein",
+  "label": "Plön"
+ },
+ {
+  "id": "12054",
+  "name": "Potsdam",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Brandenburg",
+  "label": "Potsdam"
+ },
+ {
+  "id": "12069",
+  "name": "Potsdam-Mittelmark",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Brandenburg",
+  "label": "Potsdam-Mittelmark"
+ },
+ {
+  "id": "12070",
+  "name": "Prignitz",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Brandenburg",
+  "label": "Prignitz"
+ },
+ {
+  "id": "08216",
+  "name": "Rastatt",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Baden-Württemberg",
+  "label": "Rastatt"
+ },
+ {
+  "id": "08436",
+  "name": "Ravensburg",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Baden-Württemberg",
+  "label": "Ravensburg"
+ },
+ {
+  "id": "05562",
+  "name": "Recklinghausen",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Recklinghausen"
+ },
+ {
+  "id": "09276",
+  "name": "Regen",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Regen"
+ },
+ {
+  "id": "09375",
+  "name": "Regensburg",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Regensburg (Landkreis)"
+ },
+ {
+  "id": "09362",
+  "name": "Regensburg",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Bayern",
+  "label": "Regensburg (Stadt)"
+ },
+ {
+  "id": "03241",
+  "name": "Region Hannover",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Region Hannover"
+ },
+ {
+  "id": "10041",
+  "name": "Regionalverband Saarbrücken",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Saarland",
+  "label": "Regionalverband Saarbrücken"
+ },
+ {
+  "id": "08119",
+  "name": "Rems-Murr-Kreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Baden-Württemberg",
+  "label": "Rems-Murr-Kreis"
+ },
+ {
+  "id": "05120",
+  "name": "Remscheid",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Remscheid"
+ },
+ {
+  "id": "01058",
+  "name": "Rendsburg-Eckernförde",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Schleswig-Holstein",
+  "label": "Rendsburg-Eckernförde"
+ },
+ {
+  "id": "08415",
+  "name": "Reutlingen",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Baden-Württemberg",
+  "label": "Reutlingen"
+ },
+ {
+  "id": "05362",
+  "name": "Rhein-Erft-Kreis",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Rhein-Erft-Kreis"
+ },
+ {
+  "id": "07140",
+  "name": "Rhein-Hunsrück-Kreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Rheinland-Pfalz",
+  "label": "Rhein-Hunsrück-Kreis"
+ },
+ {
+  "id": "05162",
+  "name": "Rhein-Kreis Neuss",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Rhein-Kreis Neuss"
+ },
+ {
+  "id": "07141",
+  "name": "Rhein-Lahn-Kreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Rheinland-Pfalz",
+  "label": "Rhein-Lahn-Kreis"
+ },
+ {
+  "id": "08226",
+  "name": "Rhein-Neckar-Kreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Baden-Württemberg",
+  "label": "Rhein-Neckar-Kreis"
+ },
+ {
+  "id": "07338",
+  "name": "Rhein-Pfalz-Kreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Rheinland-Pfalz",
+  "label": "Rhein-Pfalz-Kreis"
+ },
+ {
+  "id": "05382",
+  "name": "Rhein-Sieg-Kreis",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Rhein-Sieg-Kreis"
+ },
+ {
+  "id": "06439",
+  "name": "Rheingau-Taunus-Kreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Hessen",
+  "label": "Rheingau-Taunus-Kreis"
+ },
+ {
+  "id": "05378",
+  "name": "Rheinisch-Bergischer Kreis",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Rheinisch-Bergischer Kreis"
+ },
+ {
+  "id": "09673",
+  "name": "Rhön-Grabfeld",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Rhön-Grabfeld"
+ },
+ {
+  "id": "09187",
+  "name": "Rosenheim",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Rosenheim (Landkreis)"
+ },
+ {
+  "id": "09163",
+  "name": "Rosenheim",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Bayern",
+  "label": "Rosenheim (Stadt)"
+ },
+ {
+  "id": "13072",
+  "name": "Rostock",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Mecklenburg-Vorpommern",
+  "label": "Rostock (Landkreis)"
+ },
+ {
+  "id": "13003",
+  "name": "Rostock",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Mecklenburg-Vorpommern",
+  "label": "Rostock (Stadt)"
+ },
+ {
+  "id": "03357",
+  "name": "Rotenburg (Wümme)",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Rotenburg (Wümme)"
+ },
+ {
+  "id": "09576",
+  "name": "Roth",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Roth"
+ },
+ {
+  "id": "09277",
+  "name": "Rottal-Inn",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Rottal-Inn"
+ },
+ {
+  "id": "08325",
+  "name": "Rottweil",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Baden-Württemberg",
+  "label": "Rottweil"
+ },
+ {
+  "id": "16074",
+  "name": "Saale-Holzland-Kreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Thüringen",
+  "label": "Saale-Holzland-Kreis"
+ },
+ {
+  "id": "16075",
+  "name": "Saale-Orla-Kreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Thüringen",
+  "label": "Saale-Orla-Kreis"
+ },
+ {
+  "id": "15088",
+  "name": "Saalekreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Sachsen-Anhalt",
+  "label": "Saalekreis"
+ },
+ {
+  "id": "16073",
+  "name": "Saalfeld-Rudolstadt",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Thüringen",
+  "label": "Saalfeld-Rudolstadt"
+ },
+ {
+  "id": "10044",
+  "name": "Saarlouis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Saarland",
+  "label": "Saarlouis"
+ },
+ {
+  "id": "10045",
+  "name": "Saarpfalz-Kreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Saarland",
+  "label": "Saarpfalz-Kreis"
+ },
+ {
+  "id": "14628",
+  "name": "Sächsische Schweiz-Osterzgebirge",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Sachsen",
+  "label": "Sächsische Schweiz-Osterzgebirge"
+ },
+ {
+  "id": "03102",
+  "name": "Salzgitter",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Niedersachsen",
+  "label": "Salzgitter"
+ },
+ {
+  "id": "15089",
+  "name": "Salzlandkreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Sachsen-Anhalt",
+  "label": "Salzlandkreis"
+ },
+ {
+  "id": "03257",
+  "name": "Schaumburg",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Schaumburg"
+ },
+ {
+  "id": "01059",
+  "name": "Schleswig-Flensburg",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Schleswig-Holstein",
+  "label": "Schleswig-Flensburg"
+ },
+ {
+  "id": "16066",
+  "name": "Schmalkalden-Meiningen",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Thüringen",
+  "label": "Schmalkalden-Meiningen"
+ },
+ {
+  "id": "09565",
+  "name": "Schwabach",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Bayern",
+  "label": "Schwabach"
+ },
+ {
+  "id": "08127",
+  "name": "Schwäbisch Hall",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Baden-Württemberg",
+  "label": "Schwäbisch Hall"
+ },
+ {
+  "id": "06634",
+  "name": "Schwalm-Eder-Kreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Hessen",
+  "label": "Schwalm-Eder-Kreis"
+ },
+ {
+  "id": "09376",
+  "name": "Schwandorf",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Schwandorf"
+ },
+ {
+  "id": "08326",
+  "name": "Schwarzwald-Baar-Kreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Baden-Württemberg",
+  "label": "Schwarzwald-Baar-Kreis"
+ },
+ {
+  "id": "09678",
+  "name": "Schweinfurt",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Schweinfurt (Landkreis)"
+ },
+ {
+  "id": "09662",
+  "name": "Schweinfurt",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Bayern",
+  "label": "Schweinfurt (Stadt)"
+ },
+ {
+  "id": "13004",
+  "name": "Schwerin",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Mecklenburg-Vorpommern",
+  "label": "Schwerin"
+ },
+ {
+  "id": "01060",
+  "name": "Segeberg",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Schleswig-Holstein",
+  "label": "Segeberg"
+ },
+ {
+  "id": "05970",
+  "name": "Siegen-Wittgenstein",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Siegen-Wittgenstein"
+ },
+ {
+  "id": "08437",
+  "name": "Sigmaringen",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Baden-Württemberg",
+  "label": "Sigmaringen"
+ },
+ {
+  "id": "05974",
+  "name": "Soest",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Soest"
+ },
+ {
+  "id": "05122",
+  "name": "Solingen",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Solingen"
+ },
+ {
+  "id": "16068",
+  "name": "Sömmerda",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Thüringen",
+  "label": "Sömmerda"
+ },
+ {
+  "id": "16072",
+  "name": "Sonneberg",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Thüringen",
+  "label": "Sonneberg"
+ },
+ {
+  "id": "07318",
+  "name": "Speyer",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Rheinland-Pfalz",
+  "label": "Speyer"
+ },
+ {
+  "id": "12071",
+  "name": "Spree-Neiße",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Brandenburg",
+  "label": "Spree-Neiße"
+ },
+ {
+  "id": "10046",
+  "name": "St. Wendel",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Saarland",
+  "label": "St. Wendel"
+ },
+ {
+  "id": "03359",
+  "name": "Stade",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Stade"
+ },
+ {
+  "id": "05334",
+  "name": "Städteregion Aachen",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Städteregion Aachen"
+ },
+ {
+  "id": "09188",
+  "name": "Starnberg",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Starnberg"
+ },
+ {
+  "id": "01061",
+  "name": "Steinburg",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Schleswig-Holstein",
+  "label": "Steinburg"
+ },
+ {
+  "id": "05566",
+  "name": "Steinfurt",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Steinfurt"
+ },
+ {
+  "id": "15090",
+  "name": "Stendal",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Sachsen-Anhalt",
+  "label": "Stendal"
+ },
+ {
+  "id": "01062",
+  "name": "Stormarn",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Schleswig-Holstein",
+  "label": "Stormarn"
+ },
+ {
+  "id": "09263",
+  "name": "Straubing",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Bayern",
+  "label": "Straubing"
+ },
+ {
+  "id": "09278",
+  "name": "Straubing-Bogen",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Straubing-Bogen"
+ },
+ {
+  "id": "08111",
+  "name": "Stuttgart",
+  "bez": "Stadtkreis",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Baden-Württemberg",
+  "label": "Stuttgart"
+ },
+ {
+  "id": "07337",
+  "name": "Südliche Weinstraße",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Rheinland-Pfalz",
+  "label": "Südliche Weinstraße"
+ },
+ {
+  "id": "07340",
+  "name": "Südwestpfalz",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Rheinland-Pfalz",
+  "label": "Südwestpfalz"
+ },
+ {
+  "id": "16054",
+  "name": "Suhl",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Thüringen",
+  "label": "Suhl"
+ },
+ {
+  "id": "12072",
+  "name": "Teltow-Fläming",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Brandenburg",
+  "label": "Teltow-Fläming"
+ },
+ {
+  "id": "09377",
+  "name": "Tirschenreuth",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Tirschenreuth"
+ },
+ {
+  "id": "09189",
+  "name": "Traunstein",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Traunstein"
+ },
+ {
+  "id": "07211",
+  "name": "Trier",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Rheinland-Pfalz",
+  "label": "Trier"
+ },
+ {
+  "id": "07235",
+  "name": "Trier-Saarburg",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Rheinland-Pfalz",
+  "label": "Trier-Saarburg"
+ },
+ {
+  "id": "08416",
+  "name": "Tübingen",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Baden-Württemberg",
+  "label": "Tübingen"
+ },
+ {
+  "id": "08327",
+  "name": "Tuttlingen",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Baden-Württemberg",
+  "label": "Tuttlingen"
+ },
+ {
+  "id": "12073",
+  "name": "Uckermark",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Brandenburg",
+  "label": "Uckermark"
+ },
+ {
+  "id": "03360",
+  "name": "Uelzen",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Uelzen"
+ },
+ {
+  "id": "08421",
+  "name": "Ulm",
+  "bez": "Stadtkreis",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Baden-Württemberg",
+  "label": "Ulm"
+ },
+ {
+  "id": "05978",
+  "name": "Unna",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Unna"
+ },
+ {
+  "id": "16064",
+  "name": "Unstrut-Hainich-Kreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Thüringen",
+  "label": "Unstrut-Hainich-Kreis"
+ },
+ {
+  "id": "09778",
+  "name": "Unterallgäu",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Unterallgäu"
+ },
+ {
+  "id": "03460",
+  "name": "Vechta",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Vechta"
+ },
+ {
+  "id": "03361",
+  "name": "Verden",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Verden"
+ },
+ {
+  "id": "05166",
+  "name": "Viersen",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Viersen"
+ },
+ {
+  "id": "06535",
+  "name": "Vogelsbergkreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Hessen",
+  "label": "Vogelsbergkreis"
+ },
+ {
+  "id": "14523",
+  "name": "Vogtlandkreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Sachsen",
+  "label": "Vogtlandkreis"
+ },
+ {
+  "id": "13075",
+  "name": "Vorpommern-Greifswald",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Mecklenburg-Vorpommern",
+  "label": "Vorpommern-Greifswald"
+ },
+ {
+  "id": "13073",
+  "name": "Vorpommern-Rügen",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Mecklenburg-Vorpommern",
+  "label": "Vorpommern-Rügen"
+ },
+ {
+  "id": "07233",
+  "name": "Vulkaneifel",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Rheinland-Pfalz",
+  "label": "Vulkaneifel"
+ },
+ {
+  "id": "06635",
+  "name": "Waldeck-Frankenberg",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Hessen",
+  "label": "Waldeck-Frankenberg"
+ },
+ {
+  "id": "08337",
+  "name": "Waldshut",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Baden-Württemberg",
+  "label": "Waldshut"
+ },
+ {
+  "id": "05570",
+  "name": "Warendorf",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Warendorf"
+ },
+ {
+  "id": "16063",
+  "name": "Wartburgkreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Thüringen",
+  "label": "Wartburgkreis"
+ },
+ {
+  "id": "09363",
+  "name": "Weiden i.d.OPf.",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Bayern",
+  "label": "Weiden i.d.OPf."
+ },
+ {
+  "id": "09190",
+  "name": "Weilheim-Schongau",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Weilheim-Schongau"
+ },
+ {
+  "id": "16055",
+  "name": "Weimar",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Thüringen",
+  "label": "Weimar"
+ },
+ {
+  "id": "16071",
+  "name": "Weimarer Land",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Thüringen",
+  "label": "Weimarer Land"
+ },
+ {
+  "id": "09577",
+  "name": "Weißenburg-Gunzenhausen",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Weißenburg-Gunzenhausen"
+ },
+ {
+  "id": "06636",
+  "name": "Werra-Meißner-Kreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Hessen",
+  "label": "Werra-Meißner-Kreis"
+ },
+ {
+  "id": "05170",
+  "name": "Wesel",
+  "bez": "Kreis",
+  "typ": "Landkreis",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Wesel"
+ },
+ {
+  "id": "03461",
+  "name": "Wesermarsch",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Wesermarsch"
+ },
+ {
+  "id": "07143",
+  "name": "Westerwaldkreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Rheinland-Pfalz",
+  "label": "Westerwaldkreis"
+ },
+ {
+  "id": "06440",
+  "name": "Wetteraukreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Hessen",
+  "label": "Wetteraukreis"
+ },
+ {
+  "id": "06414",
+  "name": "Wiesbaden",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Hessen",
+  "label": "Wiesbaden"
+ },
+ {
+  "id": "03405",
+  "name": "Wilhelmshaven",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Niedersachsen",
+  "label": "Wilhelmshaven"
+ },
+ {
+  "id": "15091",
+  "name": "Wittenberg",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Sachsen-Anhalt",
+  "label": "Wittenberg"
+ },
+ {
+  "id": "03462",
+  "name": "Wittmund",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Wittmund"
+ },
+ {
+  "id": "03158",
+  "name": "Wolfenbüttel",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Niedersachsen",
+  "label": "Wolfenbüttel"
+ },
+ {
+  "id": "03103",
+  "name": "Wolfsburg",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Niedersachsen",
+  "label": "Wolfsburg"
+ },
+ {
+  "id": "07319",
+  "name": "Worms",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Rheinland-Pfalz",
+  "label": "Worms"
+ },
+ {
+  "id": "09479",
+  "name": "Wunsiedel i.Fichtelgebirge",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Wunsiedel i.Fichtelgebirge"
+ },
+ {
+  "id": "05124",
+  "name": "Wuppertal",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Nordrhein-Westfalen",
+  "label": "Wuppertal"
+ },
+ {
+  "id": "09679",
+  "name": "Würzburg",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Bayern",
+  "label": "Würzburg (Landkreis)"
+ },
+ {
+  "id": "09663",
+  "name": "Würzburg",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Bayern",
+  "label": "Würzburg (Stadt)"
+ },
+ {
+  "id": "08417",
+  "name": "Zollernalbkreis",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Baden-Württemberg",
+  "label": "Zollernalbkreis"
+ },
+ {
+  "id": "07320",
+  "name": "Zweibrücken",
+  "bez": "Kreisfreie Stadt",
+  "typ": "Kreisfreie Stadt",
+  "bundesland": "Rheinland-Pfalz",
+  "label": "Zweibrücken"
+ },
+ {
+  "id": "14524",
+  "name": "Zwickau",
+  "bez": "Landkreis",
+  "typ": "Landkreis",
+  "bundesland": "Sachsen",
+  "label": "Zwickau"
+ }
+]

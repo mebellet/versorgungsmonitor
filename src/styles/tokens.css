@@ -1,0 +1,57 @@
+/* Designwerte aus dem Styleguide des Aktionsbündnis Psychotherapie, v4.0.
+   Nur hier werden Farben und Schriften festgelegt. */
+:root {
+  /* Primärfarben (Styleguide 2.1) */
+  --pink-500: #EC4899;
+  --pink-950: #500724;
+  --pink-200: #FBCFE8;
+  --taupe-900: #1D1816;
+  --taupe-100: #F3F1F1;
+  --taupe-200: #E8E4E3;
+  --white: #FFFFFF;
+
+  /* Datenfarben (Styleguide 2.2) */
+  --data-red: #EF4444;
+  --data-amber: #F59E0B;
+  --data-green: #22C55E;
+
+  /* Schriften (Styleguide 3.1) */
+  --font-text: 'Bricolage Grotesque Variable', system-ui, sans-serif;
+  --font-daten: 'IBM Plex Sans', system-ui, sans-serif;
+
+  /* Rollen: helle Variante. Schriftfarben nach Styleguide 3.2:
+     h1 Pink 500, h2 Pink 950, h3 und Fließtext Taupe 900. */
+  --hintergrund: var(--taupe-100);
+  --text: var(--taupe-900);
+  --titel: var(--pink-500);                /* h1 */
+  --untertitel: var(--pink-950);           /* Untertitel, h2, Kennzahlen, Links */
+  --text-leise: #5E5552;
+  --linie: rgb(29 24 22 / 0.12);          /* Trennlinien auf den Kacheln */
+  --akzent: var(--pink-500);               /* kleine Labels, Fortschritt */
+  --negativ: var(--data-red);
+
+  /* Flächen: Kennzahlen, Karte, Panel, Formular, Rechtstexte */
+  --karte-flaeche: var(--taupe-200);
+  --karte-rahmen: transparent;
+  --reiter-flaeche: var(--taupe-200);
+  --reiter-hover: var(--white);
+
+  /* Hervorhebung: Meldebutton, aktiver Reiter, gewählte Optionen */
+  --auswahl-flaeche: var(--pink-200);
+  --auswahl-text: var(--pink-950);
+
+  /* Eingabefelder */
+  --eingabe-flaeche: var(--white);
+  --eingabe-text: var(--taupe-900);
+  --eingabe-rahmen: var(--linie);
+
+  /* Karte: leere Kreise weiß, damit sie sich von der Kachel abheben */
+  --karte-leer: var(--white);
+  --karte-gemeldet: var(--pink-500);
+  --karte-auswahl: var(--pink-950);
+  --karte-kontur: rgb(29 24 22 / 0.2);    /* Kreisgrenzen, Taupe 900 abgeschwächt */
+
+  --radius: 6px;
+  --seitenbreite: 1080px;
+  --melden-abstand: 24px;  /* Abstand des schwebenden Buttons „Jetzt melden“ zum Bildschirmrand */
+}

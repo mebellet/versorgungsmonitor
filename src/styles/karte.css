@@ -1,0 +1,104 @@
+/* Ansicht „Karte": Kennzahlen, Landkreiskarte, Seitenpanel */
+.stat-raster {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+  padding: 18px;
+  margin-bottom: 24px;
+  background: var(--karte-flaeche);
+  border: 1px solid var(--karte-rahmen);
+  border-radius: var(--radius);
+}
+.stat-kachel { text-align: center; }
+.stat-zahl {
+  font-family: var(--font-daten);
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.15;
+  color: var(--untertitel);
+}
+.stat-zahl.negativ { color: var(--negativ); }
+.stat-label { font-family: var(--font-daten); font-size: 12.5px; color: var(--text-leise); margin-top: 2px; }
+
+.karte-einleitung { max-width: 640px; margin-bottom: 14px; font-size: 15px; }
+
+.karte-layout { display: grid; grid-template-columns: 1.3fr 1fr; gap: 24px; align-items: start; }
+.karte-kachel, .panel {
+  background: var(--karte-flaeche);
+  border: 1px solid var(--karte-rahmen);
+  border-radius: var(--radius);
+  padding: 20px;
+  min-width: 0;
+}
+
+.karte-werkzeuge { display: flex; gap: 6px; margin-bottom: 8px; }
+.karte { display: block; width: 100%; height: auto; touch-action: none; }
+.karte-fehler { padding: 24px; text-align: center; font-size: 14px; color: var(--text-leise); }
+
+.kreis {
+  fill: var(--karte-leer);
+  stroke: var(--karte-kontur);
+  stroke-width: 0.5;
+  cursor: pointer;
+  transition: opacity 0.12s;
+}
+.kreis:hover { opacity: 0.7; }
+.kreis.gemeldet { fill: var(--karte-gemeldet); }
+.kreis-auswahl {
+  fill: none;
+  stroke: var(--karte-auswahl);
+  stroke-width: 1.75;
+  stroke-linejoin: round;
+  pointer-events: none;
+}
+
+.legende { display: flex; flex-wrap: wrap; gap: 6px 16px; margin-top: 10px; font-size: 13px; color: var(--text-leise); }
+.legende-hinweis { width: 100%; }
+.legende-quelle { width: 100%; font-size: 11.5px; }
+.legende-quelle p { margin: 0; }
+.legende-quelle a { color: inherit; }
+.legende-punkt {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  margin-right: 6px;
+  border-radius: 2px;
+  background: var(--karte-leer);
+}
+.legende-punkt.gemeldet { background: var(--karte-gemeldet); }
+.legende-punkt.auswahl { border: 2px solid var(--karte-auswahl); }
+
+.panel-sub { font-size: 13.5px; color: var(--text-leise); margin: 4px 0 14px; }
+.kv-zeile {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 10px 0;
+  border-top: 1px solid var(--linie);
+  font-size: 14px;
+}
+.kv-label { color: var(--text-leise); }
+.kv-wert { font-family: var(--font-daten); font-weight: 700; text-align: right; }
+.kv-wert.negativ { color: var(--negativ); }
+
+.panel-block { margin-top: 14px; padding-top: 14px; border-top: 1px solid var(--linie); }
+.panel-block-titel { font-size: 13.5px; font-weight: 700; color: var(--text-leise); margin-bottom: 6px; }
+.trend { display: block; width: 100%; max-width: 280px; height: auto; }
+.trend path { fill: none; stroke: var(--pink-500); stroke-width: 2; }
+.trend circle { fill: var(--untertitel); }
+.trend-achse {
+  display: flex;
+  justify-content: space-between;
+  max-width: 280px;
+  font-family: var(--font-daten);
+  font-size: 11px;
+  color: var(--text-leise);
+}
+.anmerkungen { padding-left: 18px; font-size: 13.5px; }
+.anmerkungen-mehr { color: var(--text-leise); }
+
+@media (max-width: 760px) {
+  .karte-layout { grid-template-columns: 1fr; }
+  .stat-raster { grid-template-columns: 1fr 1fr; gap: 16px 8px; }
+  .stat-zahl { font-size: 21px; }
+}

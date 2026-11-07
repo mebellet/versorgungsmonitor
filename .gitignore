@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.DS_Store
+
+# Laufzeitdaten aus dem Formular, enthalten Identitäten
+data/neu/*
+!data/neu/.gitkeep

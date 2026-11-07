@@ -1,0 +1,11 @@
+/* Ansicht „Rechtliches": Baustein Kategorie-Label + Überschrift + Text/Liste */
+.recht-karte {
+  padding: 22px 26px;
+  margin-bottom: 16px;
+  background: var(--karte-flaeche);
+  border: 1px solid var(--karte-rahmen);
+  border-radius: var(--radius);
+}
+.recht-karte h3 { margin-bottom: 8px; }
+.recht-karte p, .recht-karte li { font-size: 15px; line-height: 1.6; }
+.recht-karte ul { padding-left: 18px; margin-top: 6px; }

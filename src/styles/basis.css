@@ -1,0 +1,54 @@
+/* Schriftstile nach Styleguide 3.2 */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: var(--font-text);
+  background: var(--hintergrund);
+  color: var(--text);
+  line-height: 1.5;
+  overflow-wrap: break-word; /* lange Links (z. B. Datenquellen) umbrechen statt die Seite zu verbreitern */
+}
+
+h1, h2, h3 { font-family: var(--font-text); font-weight: 700; line-height: 1.15; }
+h1 { font-size: 44px; color: var(--titel); margin-bottom: 8px; }
+h2 { font-size: 22px; color: var(--untertitel); margin-bottom: 6px; }
+h3 { font-size: 18px; color: var(--text); }
+
+a { color: var(--untertitel); text-decoration: underline; text-underline-offset: 2px; }
+
+:focus-visible { outline: 2px solid var(--untertitel); outline-offset: 2px; }
+
+.eyebrow, .schritt-label, .recht-label {
+  display: block;
+  font-family: var(--font-daten);
+  font-size: 13px;
+  color: var(--akzent);
+  margin-bottom: 4px;
+}
+
+.untertitel { max-width: 640px; margin-bottom: 24px; font-size: 16px; }
+.untertitel p + p { margin-top: 10px; }
+
+.btn {
+  font-family: var(--font-daten);
+  font-size: 14px;
+  font-weight: 700;
+  padding: 10px 18px;
+  border-radius: var(--radius);
+  border: 1px solid var(--text-leise);
+  background: transparent;
+  color: var(--text);
+  cursor: pointer;
+}
+.btn:hover { background: var(--auswahl-flaeche); color: var(--auswahl-text); }
+.btn-primaer { background: var(--auswahl-flaeche); border-color: var(--auswahl-flaeche); color: var(--auswahl-text); }
+.btn-primaer:hover { background: var(--white); border-color: var(--white); color: var(--auswahl-text); }
+.btn:disabled { background: var(--taupe-200); border-color: var(--taupe-200); color: #5E5552; cursor: not-allowed; }
+.btn-klein { padding: 5px 12px; font-size: 13px; }
+.btn-gross { flex-shrink: 0; padding: 15px 30px; font-size: 17px; box-shadow: 0 2px 8px rgb(80 7 36 / 0.18); }
+
+.seiten-titel { margin-bottom: 8px; }
+@media (max-width: 760px) { h1 { font-size: 32px; } }
+
+.fehler { color: var(--negativ); font-weight: 700; font-size: 14px; margin: 12px 0; }
+.hinweis { font-size: 13px; color: var(--text-leise); margin-top: 14px; }

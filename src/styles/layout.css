@@ -1,0 +1,84 @@
+/* Seitenrahmen, Titelzeile und Reiter. Der Monitor wird in die Homepage
+   eingebettet: kein eigenes Logo, keine eigene Fußzeile. */
+.seite {
+  max-width: var(--seitenbreite);
+  margin: 0 auto;
+  padding: 40px 24px 96px; /* unten Platz für den schwebenden Button */
+}
+
+.kopf {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px 32px;
+  margin-bottom: 20px;
+}
+.kopf h1 { margin-bottom: 4px; }
+.kopf-untertitel {
+  font-size: 22px;
+  line-height: 1.25;
+  color: var(--untertitel);
+}
+
+/* Schwebende Kopie von „Jetzt melden“: erscheint unten, sobald der Button
+   neben dem Titel aus dem Bild gescrollt ist (Kopfbereich.jsx). Der Rahmen
+   hat dieselbe Breite wie .seite, so schließt der Button rechts mit den
+   Kästen ab. */
+.melden-schwebend {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: var(--melden-abstand);
+  z-index: 40;
+  pointer-events: none;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(12px);
+  transition: opacity 0.2s, transform 0.2s, visibility 0.2s;
+}
+.melden-schwebend.sichtbar { opacity: 1; visibility: visible; transform: none; }
+.melden-schwebend-innen {
+  max-width: var(--seitenbreite);
+  margin: 0 auto;
+  padding: 0 24px;
+  display: flex;
+  justify-content: flex-end;
+}
+.melden-schwebend .btn { pointer-events: auto; }
+
+/* Reiter direkt über der Kartenansicht bzw. dem Inhalt */
+.reiter {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  padding: 4px;
+  margin-bottom: 14px;
+  background: var(--reiter-flaeche);
+  border-radius: calc(var(--radius) + 4px);
+}
+.reiter a {
+  font-family: var(--font-daten);
+  font-size: 14px;
+  font-weight: 700;
+  padding: 9px 16px;
+  border-radius: var(--radius);
+  color: var(--text);
+  text-decoration: none;
+}
+.reiter a:hover { background: var(--reiter-hover); }
+.reiter a.active {
+  background: var(--auswahl-flaeche);
+  color: var(--auswahl-text);
+}
+
+@media (max-width: 760px) {
+  .seite { padding: 24px 16px 88px; }
+  .kopf { flex-wrap: wrap; }
+  .kopf-untertitel { font-size: 18px; }
+  .kopf > .btn-gross { width: 100%; }
+  .melden-schwebend { bottom: 16px; }
+  .melden-schwebend-innen { padding: 0 16px; }
+  .melden-schwebend .btn-gross { padding: 13px 22px; font-size: 16px; }
+  .reiter { display: flex; }
+  .reiter a { flex: 1; text-align: center; padding: 8px 10px; font-size: 13px; }
+}
