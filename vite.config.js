@@ -12,6 +12,9 @@ const apiImDevServer = {
   },
 };
 
+// BASE_PATH setzt der GitHub-Workflow auf /<repository-name>/, weil GitHub
+// Pages die Seite in einem Unterordner ausliefert. Lokal bleibt es /.
 export default defineConfig({
+  base: process.env.BASE_PATH || '/',
   plugins: [react(), apiImDevServer],
 });

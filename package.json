@@ -7,6 +7,8 @@
     "dev": "vite",
     "dev:netz": "vite --host",
     "build": "vite build",
+    "build:pages": "vite build --mode pages && cp dist/index.html dist/404.html",
+    "vorschau:pages": "npm run build:pages && vite preview",
     "start": "node server/index.js",
     "test": "node --test \"shared/*.test.js\"",
     "daten:regionen": "node scripts/build-regionen.mjs"

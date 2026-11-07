@@ -6,6 +6,7 @@
 //   POST /api/meldungen  neue Meldung speichern, antwortet mit neuem Aggregat
 import { randomUUID } from 'node:crypto';
 import { aggregiere } from '../shared/aggregation.js';
+import { baueMeldung } from '../shared/meldung.js';
 import { pruefeIdentitaet, pruefeMeldung } from '../shared/validierung.js';
 import * as store from './store.js';
 
@@ -32,39 +33,6 @@ async function leseBody(req) {
 function sitzungAusCookie(req) {
   const treffer = (req.headers.cookie ?? '').match(new RegExp(`(?:^|; )${COOKIE}=([a-f0-9]+)`));
   return treffer?.[1] ?? null;
-}
-
-const zahl = (v) => (v == null || v === '' ? null : Number(v));
-const text = (v) => (typeof v === 'string' && v.trim() ? v.trim() : null);
-
-// Nimmt nur bekannte Felder, und nur die, die zum gewählten Grund gehören.
-function baueMeldung(eingabe, praxisKey, clientId) {
-  const hat = (grund) => eingabe.gruende.includes(grund);
-  return {
-    id: randomUUID(),
-    clientId,
-    status: 'veroeffentlicht',
-    regionId: eingabe.regionId,
-    datum: eingabe.datum,
-    eingegangenAm: new Date().toISOString(),
-    praxisKey,
-    gruende: eingabe.gruende,
-    praxisform: eingabe.praxisform,
-    sitzAnteil: eingabe.sitzAnteil,
-    gkvVorher: zahl(eingabe.gkvVorher),
-    privatVorher: zahl(eingabe.privatVorher),
-    selbstVorher: zahl(eingabe.selbstVorher),
-    gkvJetzt: zahl(eingabe.gkvJetzt),
-    privatJetzt: zahl(eingabe.privatJetzt),
-    selbstJetzt: zahl(eingabe.selbstJetzt),
-    wzVorher: hat('wartezeit') ? zahl(eingabe.wzVorher) : null,
-    wzNachher: hat('wartezeit') ? zahl(eingabe.wzNachher) : null,
-    schliessDatum: hat('schliessung') ? eingabe.schliessDatum : null,
-    nachbesetzung: hat('schliessung') ? eingabe.nachbesetzung === true : null,
-    politischText: text(eingabe.politischText),
-    sonstigeText: hat('sonstige') ? text(eingabe.sonstigeText) : null,
-    betroffeneGruppen: eingabe.betroffeneGruppen ?? [],
-  };
 }
 
 async function postMeldung(req, res) {
@@ -98,7 +66,7 @@ async function postMeldung(req, res) {
     res.setHeader('Set-Cookie', `${COOKIE}=${person.sitzung}; HttpOnly; SameSite=Lax; Path=/; Max-Age=${EIN_JAHR}${sicher}`);
   }
 
-  store.speichereMeldung(baueMeldung(meldung, person.praxisKey, clientId));
+  store.speichereMeldung(baueMeldung(meldung, { id: randomUUID(), praxisKey: person.praxisKey, clientId }));
   return json(res, 201, { aggregat: aggregiere(store.alleMeldungen()), regionId: meldung.regionId });
 }
 

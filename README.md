@@ -19,6 +19,8 @@ Die Adresse steht danach im Terminal, normalerweise http://localhost:5173. Die A
 | Befehl | Zweck |
 | --- | --- |
 | `npm run dev` | Entwicklung mit automatischem Neuladen |
+| `npm run build:pages` | Demo-Version ohne Server für GitHub Pages bauen |
+| `npm run vorschau:pages` | Demo-Version bauen und lokal ansehen (http://localhost:4173) |
 | `npm run dev:netz` | wie `dev`, zusätzlich im WLAN erreichbar (z. B. zum Testen auf dem Handy) |
 | `npm run build` | Produktionsversion nach `dist/` bauen |
 | `npm start` | gebaute Version mit API starten (Port 3000) |
@@ -78,3 +80,15 @@ Text in den Kopfbereichen der Markdown-Dateien (zwischen `---`) wird beim Build 
 ## Stand
 
 Die Verifikation per E-Mail und SMS ist simuliert, und die Speicherung in Dateien ist nur für die Entwicklung gedacht. Vor echten Meldungen sind die Punkte im Konzept umzusetzen, vor allem der Abschnitt „Offene Entscheidungen“.
+
+## Demo auf GitHub Pages
+
+GitHub Pages liefert nur feste Dateien aus, einen Server gibt es dort nicht. Deshalb gibt es einen eigenen Build-Modus (`.env.pages`, `VITE_DEMO=true`):
+
+- Die Kennzahlen entstehen im Browser aus `data/demo/meldungen.demo.json` (`src/api/demo.js` statt `/api/…`).
+- Das Formular lässt sich vollständig durchklicken. Neue Meldungen erscheinen sofort auf der Karte, werden aber nicht gespeichert und sind nach dem Neuladen weg. Schritt 6 weist darauf hin.
+- Unterseiten wie `/melden` funktionieren über eine Kopie der `index.html` als `404.html`.
+
+Der Workflow `.github/workflows/pages.yml` baut und veröffentlicht die Demo bei jedem Push auf `main`. Einmalig in GitHub einstellen: **Settings → Pages → Build and deployment → Source: GitHub Actions**. Die Adresse lautet dann `https://<konto>.github.io/<repository-name>/`.
+
+Die Demo schickt Einzelmeldungen an den Browser. Das ist nur vertretbar, weil die Demo-Daten fiktiv sind. Echte Meldungen laufen ausschließlich über den Server.

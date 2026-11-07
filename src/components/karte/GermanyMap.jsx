@@ -35,7 +35,7 @@ export default function GermanyMap({ gemeldet, ausgewaehlt, onWaehle, texte }) {
 
   useEffect(() => {
     let aktiv = true;
-    fetch('/geo/kreise.geo.json')
+    fetch(`${import.meta.env.BASE_URL}geo/kreise.geo.json`)
       .then((r) => r.json())
       .then((daten) => { if (aktiv) setGeo(daten); })
       .catch(() => { if (aktiv) setFehler(true); });

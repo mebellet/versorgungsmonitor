@@ -10,7 +10,8 @@ import { VersorgungsdatenProvider } from './state/VersorgungsdatenContext.jsx';
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <BrowserRouter>
+    {/* basename: auf GitHub Pages liegt die Seite unter /<repository-name>/ */}
+    <BrowserRouter basename={import.meta.env.BASE_URL.replace(/\/$/, '')}>
       <VersorgungsdatenProvider>
         <App />
       </VersorgungsdatenProvider>

@@ -132,7 +132,7 @@ export default function MeldeFormular() {
   const zurueck = () => { setSendefehler(null); setSchritt(schritt - 1); };
 
   const seite = inhalt(`melden/schritt-${schritt}`);
-  const { titel, linkText, buttonNeu } = seite.attributes;
+  const { titel, linkText, buttonNeu, demoHinweis } = seite.attributes;
 
   let naechsterText = 'Weiter';
   if (schritt === 5) naechsterText = laeuft ? 'Verifikation läuft…' : 'Erneut versuchen';
@@ -164,7 +164,7 @@ export default function MeldeFormular() {
         {schritt === 3 && <Schritt3 f={meldung} setze={setze} fehler={fehler} />}
         {schritt === 4 && <Schritt4 i={identitaet} setzeIdent={setzeIdent} fehler={fehler} />}
         {schritt === 5 && <Schritt5 pruefStatus={pruefStatus} sendefehler={sendefehler} />}
-        {schritt === 6 && <Schritt6 regionId={gemeldeteRegion} titel={titel} text={seite.body} linkText={linkText} />}
+        {schritt === 6 && <Schritt6 regionId={gemeldeteRegion} titel={titel} text={seite.body} linkText={linkText} hinweis={import.meta.env.VITE_DEMO === 'true' ? demoHinweis : null} />}
       </div>
 
       {schritt === 3 && sendefehler && <p className="fehler" role="alert">{sendefehler}</p>}

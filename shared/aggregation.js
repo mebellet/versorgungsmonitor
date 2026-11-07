@@ -1,6 +1,7 @@
 // Rechnet Einzelmeldungen in die veröffentlichten Kennzahlen um. Läuft nur auf
 // dem Server: Der Browser bekommt ausschließlich dieses Ergebnis, nie die
-// Einzelmeldungen. Reine Fakten, keine Bewertung – keine Prozentrechnung, kein
+// Einzelmeldungen. Einzige Ausnahme ist die Demo für GitHub Pages mit fiktiven
+// Daten (src/api/demo.js). Reine Fakten, keine Bewertung – keine Prozentrechnung, kein
 // Schweregrad, kein Confidence-Score (Konzeptbeschreibung, Kapitel 5).
 
 const WOCHE_MS = 7 * 24 * 60 * 60 * 1000;

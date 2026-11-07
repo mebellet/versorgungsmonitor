@@ -239,12 +239,13 @@ export function Schritt5({ pruefStatus, sendefehler }) {
   );
 }
 
-export function Schritt6({ regionId, titel, text, linkText }) {
+export function Schritt6({ regionId, titel, text, linkText, hinweis }) {
   return (
     <div className="erfolg">
       <div className="erfolg-symbol" aria-hidden="true">✓</div>
       <h2>{titel}</h2>
       <p>{text}</p>
+      {hinweis && <p className="hinweis">{hinweis}</p>}
       <p><Link to={`/?landkreis=${regionId}`}>{linkText}</Link></p>
     </div>
   );
